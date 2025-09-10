@@ -1,7 +1,7 @@
 # Linux Binary Installer
 Install any files (e.g., scripts, binaries, AppImages) and add shortcuts to the desktop and start menu.
 
-## Instructions
+## Installation Instructions
 The following command assumes **Python** and **pip** are already installed. It will create the directory `$HOME/Software/LinuxBinaryInstaller`, download the required files, install dependencies, and launch the installer.
 
 ```bash
